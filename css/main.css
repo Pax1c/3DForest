@@ -62,23 +62,23 @@ body {
 }
 
 .layer-1 {
-	transform: translateZ(-55px) scale(1.06);
+	transform: translateZ(-55px) scale(1.2);
 }
 
 .layer-2 {
-	transform: translateZ(80px) scale(0.95);
+	transform: translateZ(80px) scale(1.1);
 }
 
 .layer-3 {
-	transform: translateZ(180px) scale(.8);
+	transform: translateZ(180px);
 }
 
 .layer-4 {
-	transform: translateZ(190px) scale(.9);
+	transform: translateZ(190px) scale(.95);
 }
 
 .layer-5 {
-	transform: translateZ(300px) scale(.9);
+	transform: translateZ(300px) scale(.95);
 }
 
 .layer-6 {
